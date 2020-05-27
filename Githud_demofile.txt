@@ -5,3 +5,5 @@ Current Organization/  :
 Notice Period :
 Current Salary :
 Expectation Salary:
+V2:
+Applied for Which Location :
